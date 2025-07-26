@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+
+![Metrics](https://metrics.lecoq.io/Thomo1318?template=classic&sponsorships=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&config.timezone=Australia%2FSydney)
